@@ -1,9 +1,6 @@
-# Build Dev.to clone website with React JS
+# Dev.to clone website with React JS
 
 This repository contains code for Dev.to clone in reactjs.
-
-View Demo:
-https://devto-clone.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
