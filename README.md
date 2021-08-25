@@ -5,19 +5,6 @@ This repository contains code for Dev.to clone in reactjs.
 View Demo:
 https://devto-clone.vercel.app/
 
-If you want to learn how to create it please follow below tutorial:
-
-https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA/
-
-### Detected Warnings at Production: 
---> At hreff attribute of a link write /# instead of just #
-    in the content.js <br />
---> Add handleScroll function inside useeffect where we're calling it else it will
-    show reach hook missing dependency <br />
---> Same goes for fetchAgain() function! 
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
